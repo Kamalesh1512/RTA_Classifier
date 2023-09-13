@@ -1,6 +1,4 @@
-# RTA_Classifier
-
-# 🚦 Project 1: Road Traffic Severity Classification
+# 🚦Road Traffic Severity Classification
 
 🧾**Description:** This data set is collected from Addis Ababa Sub-city police departments for master's research work. 
 The data set has been prepared from manual records of road traffic accidents of the year 2017-20. 
@@ -14,5 +12,9 @@ The task is to classify this variable based on the other 31 features step-by-ste
 Your metric for evaluation will be **f1-score**
 
 
-🧭 **Solution:** Developed and Deployed a Machine learning Model with the help of streamlit app and Render.
-Model building is done with Random Forest MAchine Learning Algorithm with a improved accuary of 68% after performing the HyperParameter Tuning
+**Solution:** Developed and Deployed a Machine learning Model with the help of streamlit app and Render.
+Model building is done with Random Forest MAchine Learning Algorithm with a improved accuary of 68% after performing the HyperParameter Tuning.
+
+**Project Flow** - Data collection --> Exploratory Data Analysis --> Data Preprocessing --> Feature Engineering --> Data Modelling .
+
+Skills : Python, Numpy, Pandas, Scikit-learn, Matplotlib, seaborn, Streamlit. 
