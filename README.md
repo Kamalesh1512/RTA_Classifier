@@ -7,7 +7,7 @@ Then it is preprocessed and for identification of major causes of the accident b
 
 source of dataset - https://dans.knaw.nl/nl/data-diensten/narcis/ 
 
-🧭 **Problem Statement:** Problem Statement: The central goal of this research project is to utilize a dataset obtained from the Addis Ababa Sub-city police departments, encompassing records of road traffic accidents from 2017 to 2020. This dataset, featuring 32 attributes and 12,316 accident instances, has been meticulously preprocessed to safeguard sensitive information. The primary task is to employ a series of machine learning classification algorithms to predict "Accident_severity," a multi-class variable, while dissecting the underlying causes of accidents step by step. The evaluation metric of choice is the F1-score, providing a comprehensive assessment of predictive performance.
+🧭 **Problem Statement:**The central goal of this research project is to utilize a dataset obtained from the Addis Ababa Sub-city police departments, encompassing records of road traffic accidents from 2017 to 2020. This dataset, featuring 32 attributes and 12,316 accident instances, has been meticulously preprocessed to safeguard sensitive information. The primary task is to employ a series of machine learning classification algorithms to predict "Accident_severity," a multi-class variable, while dissecting the underlying causes of accidents step by step. The evaluation metric of choice is the F1-score, providing a comprehensive assessment of predictive performance.
 
 **Solution:** Developed and Deployed a Machine learning Model with the help of streamlit app and Render.
 Model building is done with Random Forest MAchine Learning Algorithm with a improved accuary of 68% after performing the HyperParameter Tuning.
