@@ -6,7 +6,7 @@ from sklearn.preprocessing import OrdinalEncoder
 import warnings
 warnings.filterwarnings('ignore')
 from ordinal_encoding import ordinal_encoder
-model = joblib.load(r"models\RF_model.joblib")
+model = joblib.load(r"models/RF_model.joblib")
 
 
 # Columns - Categorical
